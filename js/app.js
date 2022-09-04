@@ -6,7 +6,7 @@ var L1btn, L2btn, L3btn, D1btn, D2btn, D3btn;
 var vbtnlist = {
     L1btn: votebtnleader[0],
     L2btn: votebtnleader[1],
-    L3btn: votebtnleader[2],
+    L3btn: votebtnleader[2], 
     D1btn: votebtndeputy[0],
     D2btn: votebtndeputy[1],
     D3btn: votebtndeputy[2]
