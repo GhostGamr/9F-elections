@@ -1,3 +1,4 @@
+
 // Variables
 
 let votebtn = document.querySelectorAll(".btn")
@@ -64,6 +65,3 @@ else{
 //         });
 //     });
 // },500);
-
-
-
